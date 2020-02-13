@@ -3,7 +3,7 @@
 // Print the first & the second to last item: "Todo: example todo item."
 
 const todo = ['Pay remaining bills', 'Complete Udemy section', 
-    'Make workout schedule for the week', 'Swap laundry', 'Log into Sheelds card']
+    'Make workout schedule for the week', 'Swap laundry']
 
 // let secToLast = (`Your 2nd to last item is ${todo[todo.length -2]} in your todo list`)
 // let list = console.log(`You have ${todo.length} items in your todo list`)
